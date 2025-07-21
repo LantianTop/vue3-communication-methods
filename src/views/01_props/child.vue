@@ -24,7 +24,6 @@
 
 <style lang="scss" scoped>
   .box{
-    width: 100vw;
     height: 200px;
     background: pink;
   } 
